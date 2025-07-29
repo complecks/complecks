@@ -4,7 +4,7 @@ My name is pronounced "Uh-bon".</p>
 
 ## About Me:
 - I love cybersecurity, engineering, animals, cars, and motorcycles.
-- My favorite music artists are Sabrina Carpenter, My Chemical Romance, Pierce the Veil, and Rory in early 20s
+- My favorite music artists are Sabrina Carpenter, My Chemical Romance, Machine Girl, and Rory in early 20s
 - I built my first robot when I was 4
 - I've been coding since I was little, my first ever program was a batch Pokémon inspired game
 - I've been to several robotics world championships for multiple competitions
